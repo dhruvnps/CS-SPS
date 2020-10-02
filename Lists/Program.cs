@@ -94,7 +94,7 @@ namespace Lists
                 {
                     min = mid + 1;
                 }
-                return true;
+                else return true;
             }
             return false;
         }

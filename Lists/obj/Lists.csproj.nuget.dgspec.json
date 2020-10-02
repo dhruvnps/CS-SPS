@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/Lists.csproj": {}
+    "/Users/Dhruv/Computing/CS-SPS/Lists/Lists.csproj": {}
   },
   "projects": {
-    "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/Lists.csproj": {
+    "/Users/Dhruv/Computing/CS-SPS/Lists/Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/Lists.csproj",
+        "projectUniqueName": "/Users/Dhruv/Computing/CS-SPS/Lists/Lists.csproj",
         "projectName": "Lists",
-        "projectPath": "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/Lists.csproj",
+        "projectPath": "/Users/Dhruv/Computing/CS-SPS/Lists/Lists.csproj",
         "packagesPath": "/Users/Dhruv/.nuget/packages/",
-        "outputPath": "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/obj/",
+        "outputPath": "/Users/Dhruv/Computing/CS-SPS/Lists/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
