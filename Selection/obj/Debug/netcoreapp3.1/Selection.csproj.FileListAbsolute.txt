@@ -1,0 +1,12 @@
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/bin/Debug/netcoreapp3.1/Selection.deps.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/bin/Debug/netcoreapp3.1/Selection.runtimeconfig.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/bin/Debug/netcoreapp3.1/Selection.runtimeconfig.dev.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/bin/Debug/netcoreapp3.1/Selection.dll
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/bin/Debug/netcoreapp3.1/Selection.pdb
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/obj/Debug/netcoreapp3.1/Selection.csprojAssemblyReference.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/obj/Debug/netcoreapp3.1/Selection.AssemblyInfoInputs.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/obj/Debug/netcoreapp3.1/Selection.AssemblyInfo.cs
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/obj/Debug/netcoreapp3.1/Selection.csproj.CoreCompileInputs.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/obj/Debug/netcoreapp3.1/Selection.dll
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/obj/Debug/netcoreapp3.1/Selection.pdb
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Selection/obj/Debug/netcoreapp3.1/Selection.genruntimeconfig.cache

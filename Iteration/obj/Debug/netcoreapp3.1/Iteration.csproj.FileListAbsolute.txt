@@ -1,0 +1,12 @@
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/bin/Debug/netcoreapp3.1/Iteration.deps.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/bin/Debug/netcoreapp3.1/Iteration.runtimeconfig.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/bin/Debug/netcoreapp3.1/Iteration.runtimeconfig.dev.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/bin/Debug/netcoreapp3.1/Iteration.dll
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/bin/Debug/netcoreapp3.1/Iteration.pdb
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/obj/Debug/netcoreapp3.1/Iteration.csprojAssemblyReference.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/obj/Debug/netcoreapp3.1/Iteration.AssemblyInfoInputs.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/obj/Debug/netcoreapp3.1/Iteration.AssemblyInfo.cs
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/obj/Debug/netcoreapp3.1/Iteration.csproj.CoreCompileInputs.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/obj/Debug/netcoreapp3.1/Iteration.dll
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/obj/Debug/netcoreapp3.1/Iteration.pdb
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/obj/Debug/netcoreapp3.1/Iteration.genruntimeconfig.cache

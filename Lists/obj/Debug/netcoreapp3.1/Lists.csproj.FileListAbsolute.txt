@@ -1,0 +1,12 @@
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/obj/Debug/netcoreapp3.1/Lists.csprojAssemblyReference.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfoInputs.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/obj/Debug/netcoreapp3.1/Lists.AssemblyInfo.cs
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/obj/Debug/netcoreapp3.1/Lists.csproj.CoreCompileInputs.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/bin/Debug/netcoreapp3.1/Lists.deps.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/bin/Debug/netcoreapp3.1/Lists.runtimeconfig.dev.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/bin/Debug/netcoreapp3.1/Lists.dll
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/bin/Debug/netcoreapp3.1/Lists.pdb
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/obj/Debug/netcoreapp3.1/Lists.dll
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/obj/Debug/netcoreapp3.1/Lists.pdb
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Lists/obj/Debug/netcoreapp3.1/Lists.genruntimeconfig.cache

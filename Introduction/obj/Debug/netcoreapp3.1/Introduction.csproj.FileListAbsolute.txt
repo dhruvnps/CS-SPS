@@ -1,0 +1,24 @@
+/Users/Dhruv/C#/Computing Work/Introduction/bin/Debug/netcoreapp3.1/Introduction.deps.json
+/Users/Dhruv/C#/Computing Work/Introduction/bin/Debug/netcoreapp3.1/Introduction.runtimeconfig.json
+/Users/Dhruv/C#/Computing Work/Introduction/bin/Debug/netcoreapp3.1/Introduction.runtimeconfig.dev.json
+/Users/Dhruv/C#/Computing Work/Introduction/bin/Debug/netcoreapp3.1/Introduction.dll
+/Users/Dhruv/C#/Computing Work/Introduction/bin/Debug/netcoreapp3.1/Introduction.pdb
+/Users/Dhruv/C#/Computing Work/Introduction/obj/Debug/netcoreapp3.1/Introduction.csprojAssemblyReference.cache
+/Users/Dhruv/C#/Computing Work/Introduction/obj/Debug/netcoreapp3.1/Introduction.AssemblyInfoInputs.cache
+/Users/Dhruv/C#/Computing Work/Introduction/obj/Debug/netcoreapp3.1/Introduction.AssemblyInfo.cs
+/Users/Dhruv/C#/Computing Work/Introduction/obj/Debug/netcoreapp3.1/Introduction.csproj.CoreCompileInputs.cache
+/Users/Dhruv/C#/Computing Work/Introduction/obj/Debug/netcoreapp3.1/Introduction.dll
+/Users/Dhruv/C#/Computing Work/Introduction/obj/Debug/netcoreapp3.1/Introduction.pdb
+/Users/Dhruv/C#/Computing Work/Introduction/obj/Debug/netcoreapp3.1/Introduction.genruntimeconfig.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/bin/Debug/netcoreapp3.1/Introduction.deps.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/bin/Debug/netcoreapp3.1/Introduction.runtimeconfig.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/bin/Debug/netcoreapp3.1/Introduction.runtimeconfig.dev.json
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/bin/Debug/netcoreapp3.1/Introduction.dll
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/bin/Debug/netcoreapp3.1/Introduction.pdb
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/obj/Debug/netcoreapp3.1/Introduction.csprojAssemblyReference.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/obj/Debug/netcoreapp3.1/Introduction.AssemblyInfoInputs.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/obj/Debug/netcoreapp3.1/Introduction.AssemblyInfo.cs
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/obj/Debug/netcoreapp3.1/Introduction.csproj.CoreCompileInputs.cache
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/obj/Debug/netcoreapp3.1/Introduction.dll
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/obj/Debug/netcoreapp3.1/Introduction.pdb
+/Users/Dhruv/Google Drive/A Levels/Computing/C#/Introduction/obj/Debug/netcoreapp3.1/Introduction.genruntimeconfig.cache
