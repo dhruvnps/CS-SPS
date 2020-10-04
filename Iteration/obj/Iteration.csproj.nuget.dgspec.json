@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/Iteration.csproj": {}
+    "/Users/Dhruv/Computing/CS-SPS/Iteration/Iteration.csproj": {}
   },
   "projects": {
-    "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/Iteration.csproj": {
+    "/Users/Dhruv/Computing/CS-SPS/Iteration/Iteration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/Iteration.csproj",
+        "projectUniqueName": "/Users/Dhruv/Computing/CS-SPS/Iteration/Iteration.csproj",
         "projectName": "Iteration",
-        "projectPath": "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/Iteration.csproj",
+        "projectPath": "/Users/Dhruv/Computing/CS-SPS/Iteration/Iteration.csproj",
         "packagesPath": "/Users/Dhruv/.nuget/packages/",
-        "outputPath": "/Users/Dhruv/Google Drive/A Levels/Computing/C#/Iteration/obj/",
+        "outputPath": "/Users/Dhruv/Computing/CS-SPS/Iteration/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
