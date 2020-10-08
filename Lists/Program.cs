@@ -99,4 +99,19 @@ namespace Lists
             return false;
         }
     }
+
+    class Sort
+    {
+        /*static public List<int> Quick(List<int> list, int low = 0, int high = -1)
+        {
+            if (high == -1) high = list.Count;
+            if (low < high)
+            {
+                int p = Partition(List, low, high);
+                Quick(list, low, p - 1);
+                Quick(list, p + 1, high);
+            }
+            return list;
+        }*/
+    }
 }
