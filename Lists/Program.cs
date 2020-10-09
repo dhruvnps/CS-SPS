@@ -9,12 +9,18 @@ namespace Lists
         static void Main(string[] args)
         {
             List<int> list = new List<int> { -1, 1, -4, 4, 7, 8 };
+            Console.WriteLine("List: " + String.Join(", ", list));
 
             // Iterative Functions:
             Console.WriteLine($"Sum: {Iterative.Sum(list)}");
             Console.WriteLine($"Max: {Iterative.Max(list)}");
             Console.WriteLine($"Min: {Iterative.Min(list)}");
-            Iterative.Negatives(list).ForEach(x => Console.WriteLine(x));
+            var negatives = Iterative.Negatives(list);
+            Console.WriteLine("Negatives: " + String.Join(", ", negatives));
+
+            // QuickSort Function:
+            var sorted = Sort.QuickSort(list, list.Count - 1);
+            Console.WriteLine("Sorted: " + String.Join(", ", sorted));
 
             // Search Functions:
             list.Sort();
@@ -102,16 +108,26 @@ namespace Lists
 
     class Sort
     {
-        /*static public List<int> Quick(List<int> list, int low = 0, int high = -1)
+        static public List<int> QuickSort(List<int> list, int high, int low = 0)
         {
-            if (high == -1) high = list.Count;
             if (low < high)
             {
-                int p = Partition(List, low, high);
-                Quick(list, low, p - 1);
-                Quick(list, p + 1, high);
+                int pivot = list[high];
+                int i = low;
+                for (int j = low; j <= high; j++)
+                {
+                    if (list[j] < pivot)
+                    {
+                        var temp = list[i];
+                        list[i] = list[j];
+                        list[j] = temp;
+                        i++;
+                    }
+                }
+                QuickSort(list, i - 1, low);
+                QuickSort(list, high, i + 1);
             }
             return list;
-        }*/
+        }
     }
 }
