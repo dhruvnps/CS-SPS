@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Dhruv/Computing/CS-SPS/TestFile/TestFile.csproj",
-      "projectName": "TestFile",
-      "projectPath": "/Users/Dhruv/Computing/CS-SPS/TestFile/TestFile.csproj",
+      "projectUniqueName": "/Users/Dhruv/Computing/CS-SPS/TextFile/TextFile.csproj",
+      "projectName": "TextFile",
+      "projectPath": "/Users/Dhruv/Computing/CS-SPS/TextFile/TextFile.csproj",
       "packagesPath": "/Users/Dhruv/.nuget/packages/",
-      "outputPath": "/Users/Dhruv/Computing/CS-SPS/TestFile/obj/",
+      "outputPath": "/Users/Dhruv/Computing/CS-SPS/TextFile/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

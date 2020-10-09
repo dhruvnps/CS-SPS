@@ -1,0 +1,12 @@
+/Users/Dhruv/Computing/CS-SPS/TextFile/bin/Debug/netcoreapp3.1/TextFile.deps.json
+/Users/Dhruv/Computing/CS-SPS/TextFile/bin/Debug/netcoreapp3.1/TextFile.runtimeconfig.json
+/Users/Dhruv/Computing/CS-SPS/TextFile/bin/Debug/netcoreapp3.1/TextFile.runtimeconfig.dev.json
+/Users/Dhruv/Computing/CS-SPS/TextFile/bin/Debug/netcoreapp3.1/TextFile.dll
+/Users/Dhruv/Computing/CS-SPS/TextFile/bin/Debug/netcoreapp3.1/TextFile.pdb
+/Users/Dhruv/Computing/CS-SPS/TextFile/obj/Debug/netcoreapp3.1/TextFile.csprojAssemblyReference.cache
+/Users/Dhruv/Computing/CS-SPS/TextFile/obj/Debug/netcoreapp3.1/TextFile.AssemblyInfoInputs.cache
+/Users/Dhruv/Computing/CS-SPS/TextFile/obj/Debug/netcoreapp3.1/TextFile.AssemblyInfo.cs
+/Users/Dhruv/Computing/CS-SPS/TextFile/obj/Debug/netcoreapp3.1/TextFile.csproj.CoreCompileInputs.cache
+/Users/Dhruv/Computing/CS-SPS/TextFile/obj/Debug/netcoreapp3.1/TextFile.dll
+/Users/Dhruv/Computing/CS-SPS/TextFile/obj/Debug/netcoreapp3.1/TextFile.pdb
+/Users/Dhruv/Computing/CS-SPS/TextFile/obj/Debug/netcoreapp3.1/TextFile.genruntimeconfig.cache
