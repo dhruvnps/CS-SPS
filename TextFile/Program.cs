@@ -44,20 +44,18 @@ namespace TextFile
             file.Close();
         }
 
-        /*static public void WriteSorted(int length, int limit)
+        static public void WriteSorted(int length, int limit)
         {
             StreamWriter file = File.CreateText("sorted.txt");
             var rnd = new Random();
-            Sort.QuickSort(
-                Enumerable
-                  .Range(0, length)
-                  .Select(x => rnd.Next(0, limit))
-                  .ToList()
-            ).ForEach(
-                x => file.WriteLine(x)
-            );
+            List<int> nums = new List<int>();
+            for (int i = 0; i < length; i++)
+            {
+                nums.Add(rnd.Next(1, limit));
+            }
+            Sort.QuickSort(nums).ForEach(num => file.WriteLine(num));
             file.Close();
-        }*/
+        }
     }
 
     class Sort
