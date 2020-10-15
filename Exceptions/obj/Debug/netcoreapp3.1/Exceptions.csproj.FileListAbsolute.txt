@@ -1,0 +1,12 @@
+/Users/Dhruv/Computing/CS-SPS/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.deps.json
+/Users/Dhruv/Computing/CS-SPS/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.runtimeconfig.json
+/Users/Dhruv/Computing/CS-SPS/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.runtimeconfig.dev.json
+/Users/Dhruv/Computing/CS-SPS/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.dll
+/Users/Dhruv/Computing/CS-SPS/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.pdb
+/Users/Dhruv/Computing/CS-SPS/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.csprojAssemblyReference.cache
+/Users/Dhruv/Computing/CS-SPS/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfoInputs.cache
+/Users/Dhruv/Computing/CS-SPS/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfo.cs
+/Users/Dhruv/Computing/CS-SPS/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.csproj.CoreCompileInputs.cache
+/Users/Dhruv/Computing/CS-SPS/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.dll
+/Users/Dhruv/Computing/CS-SPS/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.pdb
+/Users/Dhruv/Computing/CS-SPS/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.genruntimeconfig.cache
