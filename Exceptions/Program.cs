@@ -11,19 +11,17 @@ namespace Exceptions
 
         static public double Sqrt()
         {
+            double x = 0.0;
             Console.Write("Number: ");
             try
             {
-                double x = double.Parse(Console.ReadLine());
-                return Math.Sqrt(x);
+                x = double.Parse(Console.ReadLine());
             }
             catch (System.Exception)
             {
                 Console.WriteLine("No");
             }
-            finally
-            {
-            }
+            return x;
         }
     }
 }
