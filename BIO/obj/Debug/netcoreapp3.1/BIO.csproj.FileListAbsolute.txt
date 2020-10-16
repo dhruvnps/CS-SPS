@@ -1,0 +1,12 @@
+/Users/Dhruv/Computing/CS-SPS/BIO/bin/Debug/netcoreapp3.1/BIO.deps.json
+/Users/Dhruv/Computing/CS-SPS/BIO/bin/Debug/netcoreapp3.1/BIO.runtimeconfig.json
+/Users/Dhruv/Computing/CS-SPS/BIO/bin/Debug/netcoreapp3.1/BIO.runtimeconfig.dev.json
+/Users/Dhruv/Computing/CS-SPS/BIO/bin/Debug/netcoreapp3.1/BIO.dll
+/Users/Dhruv/Computing/CS-SPS/BIO/bin/Debug/netcoreapp3.1/BIO.pdb
+/Users/Dhruv/Computing/CS-SPS/BIO/obj/Debug/netcoreapp3.1/BIO.csprojAssemblyReference.cache
+/Users/Dhruv/Computing/CS-SPS/BIO/obj/Debug/netcoreapp3.1/BIO.AssemblyInfoInputs.cache
+/Users/Dhruv/Computing/CS-SPS/BIO/obj/Debug/netcoreapp3.1/BIO.AssemblyInfo.cs
+/Users/Dhruv/Computing/CS-SPS/BIO/obj/Debug/netcoreapp3.1/BIO.csproj.CoreCompileInputs.cache
+/Users/Dhruv/Computing/CS-SPS/BIO/obj/Debug/netcoreapp3.1/BIO.dll
+/Users/Dhruv/Computing/CS-SPS/BIO/obj/Debug/netcoreapp3.1/BIO.pdb
+/Users/Dhruv/Computing/CS-SPS/BIO/obj/Debug/netcoreapp3.1/BIO.genruntimeconfig.cache
