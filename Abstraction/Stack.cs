@@ -31,14 +31,4 @@ class Stack<T>
         top = top.next;
         return item;
     }
-
-    public void Log()
-    {
-        Node node = top;
-        while (node != null)
-        {
-            Console.WriteLine($"| {node.item} |");
-            node = node.next;
-        }
-    }
 }
