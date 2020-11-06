@@ -19,18 +19,15 @@ class Queue<T>
     public void Append(T item)
     {
         Node node = new Node(item, next: null);
-
-        if (last != null)
-        {
-            last.next = node;
-        }
-        else
+        if (first == null)
         {
             first = node;
+            last = node;
+            return;
         }
+        last.next = node;
         last = node;
     }
-
 
     public T Remove()
     {
