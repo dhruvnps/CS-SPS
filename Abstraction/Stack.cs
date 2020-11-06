@@ -2,41 +2,43 @@ using System;
 
 class Stack<T>
 {
-    private T[] stack;
-    private int max;
-    private int pointer = -1;
+    private Node top;
 
-    public Stack(int max)
+    private class Node
     {
-        this.max = max;
-        this.stack = new T[max];
+        public T item;
+        public Node next;
+        public Node(T item, Node next)
+        {
+            this.item = item;
+            this.next = next;
+        }
     }
 
     public void Push(T item)
     {
-        if (pointer == max - 1)
-        {
-            throw new System.ArgumentException("Stack full");
-        }
-        pointer++;
-        stack[pointer] = item;
+        top = new Node(item, next: top); ;
     }
 
 
-    public void Pop()
+    public T Pop()
     {
-        if (pointer < 0)
+        if (top == null)
         {
-            throw new System.ArgumentException("Stack empty");
+            throw new ArgumentNullException("Stack is empty");
         }
-        pointer--;
+        T item = top.item;
+        top = top.next;
+        return item;
     }
 
     public void Log()
     {
-        for (int i = 0; i <= pointer; i++)
+        Node node = top;
+        while (node != null)
         {
-            Console.WriteLine(stack[i]);
+            Console.WriteLine($"| {node.item} |");
+            node = node.next;
         }
     }
 }

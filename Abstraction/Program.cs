@@ -6,19 +6,16 @@ namespace Abstraction
     {
         static void Main(string[] args)
         {
-            Stack<int> myStack = new Stack<int>(5);
-
-            myStack.Push(10);
-            myStack.Push(9090);
+            Stack<int> myStack = new Stack<int>();
             myStack.Push(2);
-            myStack.Push(7);
             myStack.Push(9);
-
-            myStack.Pop();
-            myStack.Pop();
-            myStack.Pop();
-
             myStack.Log();
+            Console.WriteLine($"Popped: {myStack.Pop()}");
+            Console.WriteLine($"Popped: {myStack.Pop()}");
+
+            string equation = "1 2 3 4 5 - + * /";
+            float value = Postfix.Evaluate(equation);
+            Console.WriteLine($"[{equation}] is {value}");
         }
     }
 }
