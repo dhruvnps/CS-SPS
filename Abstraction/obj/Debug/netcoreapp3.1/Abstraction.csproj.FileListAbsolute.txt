@@ -1,0 +1,12 @@
+/Users/Dhruv/Computing/CS-SPS/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.deps.json
+/Users/Dhruv/Computing/CS-SPS/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.runtimeconfig.json
+/Users/Dhruv/Computing/CS-SPS/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.runtimeconfig.dev.json
+/Users/Dhruv/Computing/CS-SPS/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.dll
+/Users/Dhruv/Computing/CS-SPS/Abstraction/bin/Debug/netcoreapp3.1/Abstraction.pdb
+/Users/Dhruv/Computing/CS-SPS/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.csprojAssemblyReference.cache
+/Users/Dhruv/Computing/CS-SPS/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.AssemblyInfoInputs.cache
+/Users/Dhruv/Computing/CS-SPS/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.AssemblyInfo.cs
+/Users/Dhruv/Computing/CS-SPS/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.csproj.CoreCompileInputs.cache
+/Users/Dhruv/Computing/CS-SPS/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.dll
+/Users/Dhruv/Computing/CS-SPS/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.pdb
+/Users/Dhruv/Computing/CS-SPS/Abstraction/obj/Debug/netcoreapp3.1/Abstraction.genruntimeconfig.cache
