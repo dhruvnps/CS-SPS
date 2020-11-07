@@ -31,4 +31,14 @@ class Stack<T>
         top = top.next;
         return item;
     }
+
+    public T Peek()
+    {
+        return top.item;
+    }
+
+    public bool IsEmpty()
+    {
+        return top == null;
+    }
 }

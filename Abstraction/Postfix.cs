@@ -2,18 +2,17 @@ using System;
 
 class Postfix
 {
-    static public float Evaluate(string s)
+    static public float Evaluate(string postfix)
     {
-        string[] equation = s.Split(' ');
+        string[] equation = postfix.Split(' ');
         Stack<float> stack = new Stack<float>();
         foreach (var item in equation)
         {
-            float num;
-            if (!float.TryParse(item, out num))
+            if (!float.TryParse(item, out float value))
             {
-                num = Calculate(stack.Pop(), stack.Pop(), item);
+                value = Calculate(stack.Pop(), stack.Pop(), item);
             }
-            stack.Push(num);
+            stack.Push(value);
         }
         return stack.Pop();
     }
@@ -32,5 +31,22 @@ class Postfix
                 return num2 / num1;
         }
         return 0;
+    }
+
+    static public string GetInfix(string postfix)
+    {
+        string[] equation = postfix.Split(' ');
+        Stack<string> stack = new Stack<string>();
+        foreach (var item in equation)
+        {
+            if (float.TryParse(item, out var _))
+            {
+                stack.Push(item);
+                continue;
+            }
+            var nums = (stack.Pop(), stack.Pop());
+            stack.Push($"({nums.Item2} {item} {nums.Item1})");
+        }
+        return stack.Pop();
     }
 }

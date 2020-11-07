@@ -43,4 +43,14 @@ class Queue<T>
         }
         return item;
     }
+
+    public T Peek()
+    {
+        return first.item;
+    }
+
+    public bool IsEmpty()
+    {
+        return first == null;
+    }
 }
