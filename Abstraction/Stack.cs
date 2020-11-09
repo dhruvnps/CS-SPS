@@ -36,9 +36,4 @@ class Stack<T>
     {
         return top.item;
     }
-
-    public bool IsEmpty()
-    {
-        return top == null;
-    }
 }
