@@ -12,9 +12,7 @@ namespace Abstraction
             myStack.Push(2);
             Console.WriteLine($"Peeked: {myStack.Peek()}");
             Console.WriteLine($"Popped: {myStack.Pop()}");
-            Console.WriteLine($"Empty: {myStack.IsEmpty()}");
             Console.WriteLine($"Popped: {myStack.Pop()}");
-            Console.WriteLine($"Empty: {myStack.IsEmpty()}");
 
             Console.WriteLine("\nQUEUE...");
             Queue<int> myQueue = new Queue<int>();
@@ -24,9 +22,7 @@ namespace Abstraction
             Console.WriteLine($"Peeked: {myQueue.Peek()}");
             Console.WriteLine($"Removed: {myQueue.Remove()}");
             Console.WriteLine($"Removed: {myQueue.Remove()}");
-            Console.WriteLine($"Empty: {myQueue.IsEmpty()}");
             Console.WriteLine($"Removed: {myQueue.Remove()}");
-            Console.WriteLine($"Empty: {myQueue.IsEmpty()}");
 
             Console.WriteLine("\nPOSTFIX...");
             string equation = "4 2 + 3 5 1 - * +";

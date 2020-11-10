@@ -17,7 +17,7 @@ class Stack<T>
 
     public void Push(T item)
     {
-        top = new Node(item, next: top); ;
+        top = new Node(item, next: top);
     }
 
 
