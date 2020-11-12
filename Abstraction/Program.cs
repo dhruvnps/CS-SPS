@@ -15,6 +15,7 @@ namespace Abstraction
             Console.WriteLine($"Popped: {myStack.Pop()}");
 
             Console.WriteLine("\nQUEUE...");
+            //CircularQueue<int> myQueue = new CircularQueue<int>(3);
             Queue<int> myQueue = new Queue<int>();
             myQueue.Append(3);
             myQueue.Append(4);

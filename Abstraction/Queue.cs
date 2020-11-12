@@ -49,3 +49,34 @@ class Queue<T>
         return first.item;
     }
 }
+
+class CircularQueue<T>
+{
+    private T[] array;
+    private int first = 0;
+    private int last = 0;
+    private int max;
+
+    public CircularQueue(int max = 10)
+    {
+        array = new T[max];
+        this.max = max;
+    }
+
+    public void Append(T item)
+    {
+        array[last % max] = item;
+        last++;
+    }
+
+    public T Remove()
+    {
+        first++;
+        return array[(first - 1) % max];
+    }
+
+    public T Peek()
+    {
+        return array[first % 4];
+    }
+}
