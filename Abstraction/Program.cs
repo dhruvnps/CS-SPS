@@ -23,7 +23,6 @@ namespace Abstraction
             Console.WriteLine($"Peeked: {myQueue.Peek()}");
             Console.WriteLine($"Removed: {myQueue.Remove()}");
             Console.WriteLine($"Removed: {myQueue.Remove()}");
-            Console.WriteLine($"Removed: {myQueue.Remove()}");
 
             Console.WriteLine("\nPOSTFIX...");
             string equation = "4 2 + 3 5 1 - * +";
