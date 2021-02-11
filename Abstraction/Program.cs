@@ -6,7 +6,7 @@ namespace Abstraction
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\nSTACK...");
+            /*Console.WriteLine("\nSTACK...");
             Stack<int> myStack = new Stack<int>();
             myStack.Push(1);
             myStack.Push(2);
@@ -27,7 +27,17 @@ namespace Abstraction
             Console.WriteLine("\nPOSTFIX...");
             string equation = "4 2 + 3 5 1 - * +";
             Console.WriteLine($"[{equation}] is {Postfix.Evaluate(equation)}");
-            Console.WriteLine($"[{equation}] is {Postfix.GetInfix(equation)}");
+            Console.WriteLine($"[{equation}] is {Postfix.GetInfix(equation)}");*/
+
+            Console.WriteLine("\nLinkedList...");
+            LinkedList<int> myLinkedList = new LinkedList<int>();
+            myLinkedList.Add(1);
+            myLinkedList.RemoveAt(0);
+            myLinkedList.Add(2);
+            myLinkedList.Add(3);
+            Console.WriteLine(myLinkedList.Count);
+            Console.WriteLine(myLinkedList[0]);
+            Console.WriteLine(myLinkedList[1]);
         }
     }
 }

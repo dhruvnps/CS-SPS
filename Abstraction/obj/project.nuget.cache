@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LFyqkSH2xeEbYBg5QNiLUJJHsgJtaqzHSKLb/NWAaAHEXNid35btgWfrZ8h7VnuGrCnzITeD4/0DO/0MBwuhww==",
+  "dgSpecHash": "f5FZUdRhhsDtQh0M5julQWaeq2Em2RcQPIyIR0q2iJ+B1Brvf+PtBKS14mpW2echirsacrMWZ2G1six1aJFYcA==",
   "success": true,
   "projectFilePath": "/Users/Dhruv/Computing/CS-SPS/Abstraction/Abstraction.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Dhruv/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
