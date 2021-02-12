@@ -30,14 +30,26 @@ namespace Abstraction
             Console.WriteLine($"[{equation}] is {Postfix.GetInfix(equation)}");*/
 
             Console.WriteLine("\nLinkedList...");
-            LinkedList<int> myLinkedList = new LinkedList<int>();
-            myLinkedList.Add(1);
-            myLinkedList.RemoveAt(0);
-            myLinkedList.Add(2);
-            myLinkedList.Add(3);
+            LinkedList<int> myLinkedList = new LinkedList<int> { 3, 1, 4, 1, 5 };
+
             Console.WriteLine(myLinkedList.Count);
-            Console.WriteLine(myLinkedList[0]);
-            Console.WriteLine(myLinkedList[1]);
+            int[] array = new int[myLinkedList.Count];
+            myLinkedList.CopyTo(array, 0);
+            foreach (var item in array) Console.WriteLine(item);
+
+            myLinkedList.Remove(4);
+            myLinkedList.RemoveAt(0);
+            myLinkedList.RemoveAt(0);
+            myLinkedList.Insert(1, 200);
+            myLinkedList.Insert(2, 100);
+            foreach (var item in array) Console.WriteLine(item);
+
+            Console.WriteLine(myLinkedList.Contains(100));
+            Console.WriteLine(myLinkedList.IndexOf(100));
+            foreach (var element in myLinkedList) Console.WriteLine(element);
+
+            myLinkedList.Clear();
+            Console.WriteLine(myLinkedList.Count);
         }
     }
 }
