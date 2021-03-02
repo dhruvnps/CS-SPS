@@ -48,6 +48,11 @@ class Queue<T>
     {
         return first.item;
     }
+
+    public bool IsEmpty()
+    {
+        return first == null;
+    }
 }
 
 class CircularQueue<T>
